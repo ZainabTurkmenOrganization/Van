@@ -6,7 +6,8 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: #FFF7ED;
-    font-family: "Inter", sans-serif;
+    font-family: 'Edu TAS Beginner', cursive;
+    
 }
 
 body::-webkit-scrollbar {
@@ -82,6 +83,7 @@ header a:hover {
 
 .home-container p {
     line-height: 24px;
+
 }
 
 .home-container a {
