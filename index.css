@@ -33,6 +33,9 @@ header .site-logo {
     font-weight: 900;
     font-size: 25px;
 }
+.site-logo:hover{
+    color: #FF8C38;
+}
 
 header a {
     text-decoration: none;
@@ -42,7 +45,7 @@ header a {
 }
 
 header a:hover {
-    color: #161616;
+    color: #FF8C38;
     text-decoration: underline;
 }
 
