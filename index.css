@@ -87,8 +87,6 @@ header a:hover {
 .home-container p {
     line-height: 24px;
     font-size: 1.5em;
-
-
 }
 
 .home-container a {
@@ -106,6 +104,7 @@ header a:hover {
     transition: transform .1s ease-in-out;
 
 }
+
 
 .home-container a:hover {
     transform: translate(1px, 1px);
