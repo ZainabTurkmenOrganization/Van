@@ -126,11 +126,14 @@ header a:hover {
 
 .about-page-content h1 {
     line-height: 38px;
+    margin-left: 1.5em;
 }
 
 .about-page-content p {
     line-height: 22px;
     font-size: 1.2em;
+    margin-left: 1.5em;
+
 }
 
 .ABOUT-PAGE{
