@@ -115,7 +115,7 @@ header a:hover {
 
 /*** ABOUT PAGE ***/
 .about-hero-image {
-    max-width: 100%;
+    width: 100%;
 }
 
 .about-page-content {
