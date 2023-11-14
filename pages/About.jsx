@@ -17,12 +17,12 @@ export default function About() {
                     <Link className="link-button" to="/vans">Explore our vans</Link>
                 </div>
                 <div className="about-page-cta">
-                    <h2>Your destination is waiting.<br />Your van is ready.</h2>
-                    <Link className="link-button" to="/vans">Explore our vans</Link>
+                    <h2>Your destination is waiting.<br />Your places are ready.</h2>
+                    <Link className="link-button" to="/vans">Explore our places</Link>
                 </div>
                 <div className="about-page-cta">
-                    <h2>Your destination is waiting.<br />Your van is ready.</h2>
-                    <Link className="link-button" to="/vans">Explore our vans</Link>
+                    <h2>Your destination is waiting.<br />Your hotle is ready.</h2>
+                    <Link className="link-button" to="/vans">Explore our hotles</Link>
                 </div>
                 <div className="about-page-cta">
                     <h2>Your destination is waiting.<br />Your van is ready.</h2>
