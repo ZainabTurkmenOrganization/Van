@@ -129,7 +129,8 @@ header a:hover {
 }
 
 .about-page-content p {
-    line-height: 22px;
+    /* line-height: 22px; */
+    font-size: 1.5em;
 }
 
 .about-page-cta {
@@ -140,6 +141,7 @@ header a:hover {
     margin-inline: 27px;
     border-radius: 5px;
     width: 310px;
+    margin-bottom: 2em;
 }
 
 .about-page-cta h2 {
