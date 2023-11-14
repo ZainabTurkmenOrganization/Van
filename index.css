@@ -133,6 +133,10 @@ header a:hover {
     font-size: 1.2em;
 }
 
+.ABOUT-PAGE{
+    display: flex;
+    justify-content: center;
+}
 .about-page-cta {
     background-color: #FFCC8D;
     color: #161616;
