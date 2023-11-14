@@ -139,6 +139,7 @@ header a:hover {
     padding-bottom: 32px;
     margin-inline: 27px;
     border-radius: 5px;
+    width: 310px;
 }
 
 .about-page-cta h2 {
