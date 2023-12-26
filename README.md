@@ -31,4 +31,6 @@ Head over to https://vitejs.dev/ to learn more about using vite
 # Clone this repository
 git clone https://github.com/MastooraTurkmen/Van.git
 
+# Go inside the repository
+
 ```
