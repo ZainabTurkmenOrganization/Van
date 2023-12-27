@@ -1,23 +1,68 @@
-# coe924bbe83c03b598d70a105
+# Van
 
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
 Quick start:
 
-```
+````
 $ npm install
+$ npm run dev
 $ npm start
 ````
 
+````
+$ pnpm install
+$ pnpm run dev
+$ pnpm start
+````
+
+````
+$ yarn install
+$ yarn run dev
+$ yarn start
+````
+
 Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Cloning the project 🪛🔨
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-Happy Coding!
+```bash
+# Clone this repository
+git clone https://github.com/MastooraTurkmen/Van.git
+
+# Go inside the repository
+$ cd Van
+```
+
+
+-----
+
+## Languages and Tools are used 🗣️🔧
+
+
+1. **Languages** 🗣️
+
+    + [HTML](https://github.com/topics/html)
+    + [HTML5](https://github.com/topics/html5)
+    + [CSS](https://github.com/topics/css)
+    + [CSS3](https://github.com/topics/css3)
+    + [React](https://github.com/topics/react)
+    + [JavaScript](https://github.com/topics/javascript)
+
+2. **Tools** 🔧
+
+    + [Chrome](https://github.com/topics/chrome)
+    + [Figma](https://github.com/topics/figma)
+    + [VSCode](https://github.com/topics/vscode)
+    + [Netlify](https://github.com/topics/netlify)
+
+-----
+
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
